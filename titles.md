@@ -1,4 +1,4 @@
-# movie titles
+# Titles
 
 - The Shawshank Redemption
 - The Godfather
